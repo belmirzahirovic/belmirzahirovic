@@ -1,3 +1,10 @@
+### Hi 👋, I'm 
+
+<h3 align="center"><a href="https://www.linkedin.com/in/belmir-zahirovic/">
+   <img alt="Belmir Zahirovic" src="https://readme-typing-svg.herokuapp.com/?lines=Belmir+Zahirovic;Web+Developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
+
+
 # 💫 About Me:
 🎓 Recent Computer Science graduate with a passion for web development<br>💻 Skilled in JavaScript, React, , SQL, and more<br>🛠️ Experienced in building responsive and full-stack applications<br>🚀 Always learning new technologies and improving my skills<br>🤝 Open to collaborations and contributing my skills to innovative teams
 
